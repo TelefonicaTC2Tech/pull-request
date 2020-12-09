@@ -1,7 +1,7 @@
-FROM alpine
+FROM harbor.elevenpaths.com/dockerhub-proxy/library/alpine:3.11
 
 LABEL \
-  "name"="GitHub Pull Request Action" \
+  "name"="GitHub Pull Request Action edited for MagNET-Telefonica" \
   "homepage"="https://github.com/marketplace/actions/github-pull-request" \
   "repository"="https://github.com/repo-sync/pull-request" \
   "maintainer"="Wei He <github@weispot.com>"
