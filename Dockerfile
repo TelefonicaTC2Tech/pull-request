@@ -1,4 +1,4 @@
-FROM harbor.elevenpaths.com/dockerhub-proxy/library/alpine:3.11
+FROM harbor.elevenpaths.com/dockerhub-proxy/library/alpine:3.15
 
 LABEL \
   "name"="GitHub Pull Request Action edited for MagNET-Telefonica" \
